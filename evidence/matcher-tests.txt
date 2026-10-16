@@ -1,0 +1,25 @@
+PASS Empty pantry
+PASS One missing ingredient
+PASS Insufficient quantity
+PASS Exact quantities
+PASS Surplus allowed
+PASS Case and plural
+PASS Kilograms convert
+PASS Duplicate stock sums
+PASS Mixed units sum
+PASS Mass cannot satisfy volume
+PASS Pieces cannot satisfy grams
+PASS Litres convert
+PASS Tablespoons convert
+PASS Teaspoons convert
+PASS Tomatoes alias
+PASS Potatoes alias
+PASS No fuzzy substitute
+PASS Expired stock excluded
+PASS Expiry today accepted
+PASS No repeated demand double counting
+PASS Decimal sum exact
+PASS Tiny shortfall rejected
+PASS No implicit water
+PASS Empty recipe rejected
+24 checks passed.

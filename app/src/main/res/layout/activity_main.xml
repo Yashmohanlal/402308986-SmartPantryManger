@@ -4,7 +4,9 @@
     <TextView android:id="@+id/subtitle" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/activity_main_2_text" android:textSize="16sp" android:textColor="#183A2B" android:paddingBottom="12dp" />
     <TextView android:id="@+id/summary" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/activity_main_3_text" android:textSize="16sp" android:textColor="#183A2B" android:paddingBottom="12dp" />
     <Button android:id="@+id/add" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="48dp" android:text="@string/activity_main_4_text" android:textAllCaps="false" />
-    <ListView android:id="@+id/list" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1" android:dividerHeight="8dp" />
-    <TextView android:id="@+id/empty" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/activity_main_6_text" android:textSize="16sp" android:textColor="#183A2B" android:paddingBottom="12dp" />
+    <FrameLayout android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+        <ListView android:id="@+id/list" android:layout_width="match_parent" android:layout_height="match_parent" android:dividerHeight="8dp" />
+        <TextView android:id="@+id/empty" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/activity_main_6_text" android:textSize="16sp" android:textColor="#183A2B" android:paddingBottom="12dp" />
+    </FrameLayout>
     <include layout="@layout/navigation" />
 </LinearLayout>

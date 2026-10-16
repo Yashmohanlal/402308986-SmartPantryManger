@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Scrambled eggs",
+    "ingredients": [
+      {
+        "name": "egg",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "name": "butter",
+        "quantity": "10",
+        "unit": "g"
+      }
+    ],
+    "steps": "1. Melt the butter in a non-stick pan over low heat.\n2. Beat the eggs, add them and stir until fully set.\n3. Serve immediately."
+  },
+  {
+    "name": "Cheese omelette",
+    "ingredients": [
+      {
+        "name": "egg",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "name": "cheese",
+        "quantity": "30",
+        "unit": "g"
+      },
+      {
+        "name": "butter",
+        "quantity": "10",
+        "unit": "g"
+      }
+    ],
+    "steps": "1. Beat the eggs and grate the cheese.\n2. Melt the butter and pour in the eggs.\n3. Add cheese, fold and cook until the egg is fully set."
+  },
+  {
+    "name": "Tomato toast",
+    "ingredients": [
+      {
+        "name": "bread",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "name": "tomato",
+        "quantity": "1",
+        "unit": "piece"
+      }
+    ],
+    "steps": "1. Toast two slices of bread in a toaster.\n2. Wash and slice the tomato.\n3. Place the tomato on the toast and serve."
+  },
+  {
+    "name": "Cheese toast",
+    "ingredients": [
+      {
+        "name": "bread",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "name": "cheese",
+        "quantity": "40",
+        "unit": "g"
+      }
+    ],
+    "steps": "1. Place grated cheese on two slices of bread.\n2. Grill until the cheese melts and the bread is toasted."
+  },
+  {
+    "name": "Banana milk smoothie",
+    "ingredients": [
+      {
+        "name": "banana",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "name": "milk",
+        "quantity": "200",
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Peel and slice the banana.\n2. Blend with milk until smooth.\n3. Serve immediately."
+  },
+  {
+    "name": "Banana oat bowl",
+    "ingredients": [
+      {
+        "name": "banana",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "name": "oats",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "name": "milk",
+        "quantity": "200",
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Simmer the oats and milk gently, stirring until soft.\n2. Peel and slice the banana.\n3. Top the warm oats with the banana."
+  },
+  {
+    "name": "Apple porridge",
+    "ingredients": [
+      {
+        "name": "apple",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "name": "oats",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "name": "milk",
+        "quantity": "200",
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Wash, core and grate the apple.\n2. Add it to a pot with oats and milk.\n3. Simmer, stirring, until the oats are soft."
+  },
+  {
+    "name": "French toast",
+    "ingredients": [
+      {
+        "name": "bread",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "name": "egg",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "name": "milk",
+        "quantity": "50",
+        "unit": "ml"
+      },
+      {
+        "name": "butter",
+        "quantity": "10",
+        "unit": "g"
+      }
+    ],
+    "steps": "1. Beat the egg with the milk.\n2. Dip both bread slices into the mixture.\n3. Melt butter in a pan and cook the bread on both sides until the egg is fully set."
+  },
+  {
+    "name": "Pan fried potatoes",
+    "ingredients": [
+      {
+        "name": "potato",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "name": "oil",
+        "quantity": "15",
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Wash and thinly slice the potatoes.\n2. Heat oil in a pan and add potatoes.\n3. Cook over medium-low heat, turning regularly until tender throughout."
+  },
+  {
+    "name": "Carrot and potato soup",
+    "ingredients": [
+      {
+        "name": "carrot",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "name": "potato",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "name": "water",
+        "quantity": "500",
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Wash and chop the vegetables into small pieces.\n2. Add to a pot with the measured water.\n3. Simmer until tender, then mash into the cooking liquid."
+  },
+  {
+    "name": "Tomato rice",
+    "ingredients": [
+      {
+        "name": "rice",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "name": "tomato",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "name": "water",
+        "quantity": "250",
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Wash and chop the tomatoes.\n2. Put rice, tomatoes and water in a pot.\n3. Cover and simmer gently until the rice is cooked and water absorbed."
+  },
+  {
+    "name": "Pea rice",
+    "ingredients": [
+      {
+        "name": "rice",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "name": "peas",
+        "quantity": "80",
+        "unit": "g"
+      },
+      {
+        "name": "water",
+        "quantity": "250",
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Add rice and water to a pot.\n2. Cover and simmer gently.\n3. Add peas near the end and cook until rice and peas are tender."
+  },
+  {
+    "name": "Tomato pasta",
+    "ingredients": [
+      {
+        "name": "pasta",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "name": "tomato",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "name": "oil",
+        "quantity": "15",
+        "unit": "ml"
+      },
+      {
+        "name": "water",
+        "quantity": "1000",
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Boil the measured water and cook pasta according to its packet, then drain.\n2. Wash and chop tomatoes; soften them in oil in a pan.\n3. Toss the cooked pasta in the tomato sauce."
+  },
+  {
+    "name": "Buttered pasta",
+    "ingredients": [
+      {
+        "name": "pasta",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "name": "butter",
+        "quantity": "20",
+        "unit": "g"
+      },
+      {
+        "name": "water",
+        "quantity": "1000",
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Boil the measured water and cook pasta according to its packet.\n2. Drain the pasta.\n3. Stir through butter until melted."
+  },
+  {
+    "name": "Cheesy pasta",
+    "ingredients": [
+      {
+        "name": "pasta",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "name": "cheese",
+        "quantity": "40",
+        "unit": "g"
+      },
+      {
+        "name": "milk",
+        "quantity": "100",
+        "unit": "ml"
+      },
+      {
+        "name": "water",
+        "quantity": "1000",
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Boil pasta in the measured water according to its packet and drain.\n2. Gently heat milk and grated cheese until melted.\n3. Mix in the cooked pasta."
+  },
+  {
+    "name": "Tomato egg pan",
+    "ingredients": [
+      {
+        "name": "tomato",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "name": "egg",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "name": "oil",
+        "quantity": "15",
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Wash and chop the tomatoes.\n2. Heat oil and soften the tomatoes.\n3. Add beaten eggs and stir until fully cooked."
+  },
+  {
+    "name": "Carrot slaw",
+    "ingredients": [
+      {
+        "name": "carrot",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "name": "yogurt",
+        "quantity": "60",
+        "unit": "g"
+      }
+    ],
+    "steps": "1. Wash and grate the carrots.\n2. Mix with plain yogurt and serve."
+  },
+  {
+    "name": "Apple yogurt bowl",
+    "ingredients": [
+      {
+        "name": "apple",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "name": "yogurt",
+        "quantity": "150",
+        "unit": "g"
+      }
+    ],
+    "steps": "1. Wash, core and dice the apple.\n2. Stir into plain yogurt and serve."
+  },
+  {
+    "name": "Banana pancakes",
+    "ingredients": [
+      {
+        "name": "banana",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "name": "egg",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "name": "oil",
+        "quantity": "5",
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Peel and mash the banana, then mix with beaten eggs.\n2. Heat oil in a non-stick pan.\n3. Cook small pancakes on both sides until the egg is fully set."
+  },
+  {
+    "name": "Onion potato hash",
+    "ingredients": [
+      {
+        "name": "onion",
+        "quantity": "1",
+        "unit": "piece"
+      },
+      {
+        "name": "potato",
+        "quantity": "2",
+        "unit": "piece"
+      },
+      {
+        "name": "oil",
+        "quantity": "15",
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Peel the onion and wash the potatoes. Dice both finely.\n2. Heat oil in a pan and add both vegetables.\n3. Cook over medium-low heat, stirring until the potatoes are tender."
+  }
+]

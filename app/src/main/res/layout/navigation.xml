@@ -1,6 +1,6 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:paddingTop="10dp">
-    <Button android:id="@+id/navPantry" android:layout_width="0dp" android:layout_weight="1" android:layout_height="wrap_content" android:minHeight="48dp" android:text="Pantry" android:textAllCaps="false"/>
-    <Button android:id="@+id/navRecipes" android:layout_width="0dp" android:layout_weight="1" android:layout_height="wrap_content" android:minHeight="48dp" android:text="Recipes" android:textAllCaps="false"/>
-    <Button android:id="@+id/navSettings" android:layout_width="0dp" android:layout_weight="1" android:layout_height="wrap_content" android:minHeight="48dp" android:text="Settings" android:textAllCaps="false"/>
+    <Button android:id="@+id/navPantry" android:layout_width="0dp" android:layout_weight="1" android:layout_height="wrap_content" android:minHeight="48dp" android:text="@string/navigation_1_text" android:textAllCaps="false" />
+    <Button android:id="@+id/navRecipes" android:layout_width="0dp" android:layout_weight="1" android:layout_height="wrap_content" android:minHeight="48dp" android:text="@string/navigation_2_text" android:textAllCaps="false" />
+    <Button android:id="@+id/navSettings" android:layout_width="0dp" android:layout_weight="1" android:layout_height="wrap_content" android:minHeight="48dp" android:text="@string/navigation_3_text" android:textAllCaps="false" />
 </LinearLayout>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="activity_settings_3_text">Settings</string>
+    <string name="activity_settings_4_text">Show expiry reminders</string>
+    <string name="activity_settings_5_text">Shows a reminder in the pantry for items expiring within 3 days. No background notifications are sent.</string>
+    <string name="activity_settings_6_text">How matching works</string>
+    <string name="activity_settings_7_text">Every ingredient must be available in enough quantity. Common plurals such as tomatoes and eggs are recognised. Duplicate pantry entries are added together.  Supported conversions: 1 kg = 1000 g; 1 l = 1000 ml; 1 tsp = 5 ml; 1 tbsp = 15 ml. Pieces cannot be converted to weight.  Water, oil and other cooking ingredients are never assumed. Add them if a recipe requires them. Expired entries never count, even with reminders off.</string>
+    <string name="activity_settings_8_text">About this app</string>
+    <string name="activity_settings_9_text">Smart Pantry Manager Mobile App Development 700 Yash Mohanlal | 402308986  20 recipes stored locally in SQLite. No account or internet connection needed.</string>
+    <string name="activity_recipes_1_text">Suggested recipes</string>
+    <string name="activity_recipes_2_text">Only recipes with every ingredient in enough quantity. Expired entries are excluded.</string>
+    <string name="activity_recipes_3_text">Browse all 20 recipes</string>
+    <string name="activity_recipes_4_text">Matches</string>
+    <string name="activity_recipes_6_text">No recipes match your pantry yet. Add more ingredients or check quantities and units.</string>
+    <string name="row_item_1_text">Ingredient</string>
+    <string name="row_item_2_text">Quantity</string>
+    <string name="activity_recipe_detail_2_text">Recipe</string>
+    <string name="activity_recipe_detail_3_text">Pantry check</string>
+    <string name="activity_recipe_detail_4_text">Ingredients</string>
+    <string name="activity_recipe_detail_6_text">Method</string>
+    <string name="activity_recipe_detail_8_text">Quantities make one small batch. Check food condition before cooking. Pantry quantities are not deducted automatically.</string>
+    <string name="activity_recipe_detail_9_text">Back to recipes</string>
+    <string name="activity_ingredient_2_text">Add ingredient</string>
+    <string name="activity_ingredient_3_text">Add one pantry entry. Use piece for eggs, fruit and bread slices; use g or ml for measured ingredients.</string>
+    <string name="activity_ingredient_4_text">Ingredient name</string>
+    <string name="activity_ingredient_5_hint">e.g. tomatoes</string>
+    <string name="activity_ingredient_6_text">Quantity</string>
+    <string name="activity_ingredient_7_hint">e.g. 2 or 0.5</string>
+    <string name="activity_ingredient_8_text">Unit</string>
+    <string name="activity_ingredient_9_contentdescription">Ingredient unit</string>
+    <string name="activity_ingredient_10_text">Expiry date (optional)</string>
+    <string name="activity_ingredient_11_hint">YYYY-MM-DD</string>
+    <string name="activity_ingredient_12_text">Save ingredient</string>
+    <string name="activity_ingredient_13_text">Delete ingredient</string>
+    <string name="activity_ingredient_14_text">Back to pantry</string>
+    <string name="activity_main_1_text">My pantry</string>
+    <string name="activity_main_2_text">Use what you have. Waste less.</string>
+    <string name="activity_main_3_text">Your ingredients</string>
+    <string name="activity_main_4_text">Add ingredient</string>
+    <string name="activity_main_6_text">Your pantry is empty. Tap Add ingredient to begin.</string>
+    <string name="navigation_1_text">Pantry</string>
+    <string name="navigation_2_text">Recipes</string>
+    <string name="navigation_3_text">Settings</string>
+</resources>

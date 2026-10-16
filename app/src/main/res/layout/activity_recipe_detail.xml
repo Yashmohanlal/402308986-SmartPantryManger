@@ -1,13 +1,13 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/root" android:layout_width="match_parent" android:layout_height="match_parent" android:padding="20dp">
     <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical">
-        <TextView android:id="@+id/heading" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Recipe" android:textSize="28sp" android:textColor="#183A2B" android:paddingBottom="12dp"/>
-        <TextView android:id="@+id/status" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Pantry check" android:textSize="16sp" android:textColor="#183A2B" android:paddingBottom="12dp"/>
-        <TextView android:id="@+id/ingredientsHeading" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Ingredients" android:textSize="22sp" android:textColor="#183A2B" android:paddingBottom="12dp"/>
-        <TextView android:id="@+id/ingredients" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="" android:textSize="16sp" android:textColor="#183A2B" android:paddingBottom="12dp"/>
-        <TextView android:id="@+id/methodHeading" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Method" android:textSize="22sp" android:textColor="#183A2B" android:paddingBottom="12dp"/>
-        <TextView android:id="@+id/method" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="" android:textSize="16sp" android:textColor="#183A2B" android:paddingBottom="12dp"/>
-        <TextView android:id="@+id/note" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Quantities make one small batch. Check food condition before cooking. Pantry quantities are not deducted automatically." android:textSize="16sp" android:textColor="#183A2B" android:paddingBottom="12dp"/>
-        <Button android:id="@+id/back" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="48dp" android:text="Back to recipes" android:textAllCaps="false"/>
+        <TextView android:id="@+id/heading" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/activity_recipe_detail_2_text" android:textSize="28sp" android:textColor="#183A2B" android:paddingBottom="12dp" />
+        <TextView android:id="@+id/status" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/activity_recipe_detail_3_text" android:textSize="16sp" android:textColor="#183A2B" android:paddingBottom="12dp" />
+        <TextView android:id="@+id/ingredientsHeading" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/activity_recipe_detail_4_text" android:textSize="22sp" android:textColor="#183A2B" android:paddingBottom="12dp" />
+        <TextView android:id="@+id/ingredients" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="" android:textSize="16sp" android:textColor="#183A2B" android:paddingBottom="12dp" />
+        <TextView android:id="@+id/methodHeading" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/activity_recipe_detail_6_text" android:textSize="22sp" android:textColor="#183A2B" android:paddingBottom="12dp" />
+        <TextView android:id="@+id/method" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="" android:textSize="16sp" android:textColor="#183A2B" android:paddingBottom="12dp" />
+        <TextView android:id="@+id/note" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/activity_recipe_detail_8_text" android:textSize="16sp" android:textColor="#183A2B" android:paddingBottom="12dp" />
+        <Button android:id="@+id/back" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="48dp" android:text="@string/activity_recipe_detail_9_text" android:textAllCaps="false" />
     </LinearLayout>
 </ScrollView>

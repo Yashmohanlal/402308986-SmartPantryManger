@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
-    <application android:allowBackup="false" android:label="Smart Pantry" android:theme="@style/AppTheme" android:supportsRtl="true">
+    <application android:icon="@drawable/ic_pantry" android:allowBackup="false" android:label="Smart Pantry" android:theme="@style/AppTheme" android:supportsRtl="true">
         <activity android:name=".SettingsActivity" android:exported="false"/>
         <activity android:name=".RecipeDetailActivity" android:exported="false"/>
         <activity android:name=".RecipesActivity" android:exported="false"/>
